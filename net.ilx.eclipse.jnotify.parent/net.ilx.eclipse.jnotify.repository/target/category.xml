@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/net.ilx.eclipse.jnotify.feature_0.0.2.jar" id="net.ilx.eclipse.jnotify.feature" version="0.0.2">
+      <category name="net.ilx.eclipse.jnotify.category"/>
+   </feature>
+   <category-def name="net.ilx.eclipse.jnotify.category" label="Eclipse Refresh JNotify">
+      <description>
+         Eclipse Refresh mechanism implementation using jnotify.
+      </description>
+   </category-def>
+</site>
